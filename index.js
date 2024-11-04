@@ -12,3 +12,4 @@ const getFacts = async () => {
   fact.innerText = data.data; //Sets the fact on the html paragraph
 };
 button.addEventListener("click", getFacts);
+getFacts();
