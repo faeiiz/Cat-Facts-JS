@@ -33,7 +33,7 @@ button:hover {
 button:hover::before {
   -webkit-animation: sh02 0.5s 0s linear;
   -moz-animation: sh02 0.5s 0s linear;
-  animation: sh02 0.5s 0s linear;
+  animation: sh02 2s 0s linear infinite;
 }
 
 button::before {
